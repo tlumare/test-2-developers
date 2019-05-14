@@ -3,11 +3,11 @@ Hello world !
 ààààààààààà
 Queste righe
 derivanto dalla feature-1 di tommaso
-
+!!!!!!!!!!!!!!!!!!
 Non ti preoccupare se
 
 vedi il file modificato 
-
+!!!!!!!!!!!!!!!!!!
 così tanto ;-)
 
 Questa riga è
@@ -16,3 +16,6 @@ la seconda modifica in feature-1 Tommaso
 
 Un abbraccio
 T
+
+add my new feature 
+!!!!!!!!!!!!!!!!!!
