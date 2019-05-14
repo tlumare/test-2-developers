@@ -2,6 +2,7 @@ Hello world !
 è
 ààààààààààà
 Queste righe
+Questa è la modifica che ha aggiunto Tommaso in parallelo con la modifica di qualcun altro
 derivanto dalla feature-1 di tommaso
 
 Non ti preoccupare se
